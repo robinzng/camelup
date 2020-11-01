@@ -4,13 +4,6 @@ body {
 	min-width: 1075px;
 }
 
-td {
-	font-size: 12px;
-	font-family: arial, sans-serif;
-	border: 1px solid black;
-	text-align: center;
-}
-
 #board {
 	display: none;
 	border: 2px solid black;
